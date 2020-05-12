@@ -1,30 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 0: May 13, 2020, Wednesday
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Completed the Python development tutorial(Uptill 0:45:36) from freecodecamp.org under Learn Python by Building Five Games - Full Course(YouTube)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Thoughts:** After too many ups and downs, finally the second semester comes to an end(apart from vivas). With a commitment to do something productive, here I am beginning with Python development. This game development tutorial is helping me understand functions of various modules from scratch. I also pushed the tutorial code to GitHub which helped me understand git.
+**Link to work:** [Pong for mac](http://www.https://github.com/Codedude1/gamesinpython/tree/master/pong%20for%20mac)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
